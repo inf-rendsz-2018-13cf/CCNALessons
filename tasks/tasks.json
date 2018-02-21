@@ -7,7 +7,20 @@
       },
       "answers": [
         {
-          "title": "::FIRST ANSWER::"
+          "id": 0,
+          "description": {
+            "original": "ORIGINAL 1",
+            "translated": "TRANSLATED 1",
+            "correct": false
+          }
+        },
+        {
+          "id": 2,
+          "description": {
+            "original": "ORIGINAL 2",
+            "translated": "TRANSLATED 2",
+            "correct": true
+          }
         }
       ]
     }
