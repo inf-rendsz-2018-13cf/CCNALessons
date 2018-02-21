@@ -1,3 +1,15 @@
 {
-  "message": "Hi from GitHub!"
+  "tasks": [
+    {
+      "title": {
+        "original": "::ORIGINAL::",
+        "translated": "::TRANSLATED::"
+      },
+      "answers": [
+        {
+          "title": "::FIRST ANSWER::"
+        }
+      ]
+    }
+  ]
 }
