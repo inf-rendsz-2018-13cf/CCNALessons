@@ -1,0 +1,15 @@
+{
+  "tasks": [
+    {
+      "title": {
+        "original": "::ORIGINAL::",
+        "translated": "::TRANSLATED::"
+      },
+      "answers": [
+        {
+          "title": "::FIRST ANSWER::"
+        }
+      ]
+    }
+  ]
+}
