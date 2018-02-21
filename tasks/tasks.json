@@ -1,13 +1,46 @@
 {
   "tasks": [
     {
+      "id": 1,
       "title": {
-        "original": "::ORIGINAL::",
-        "translated": "::TRANSLATED::"
+        "original": "A company is contemplating whether to use a client/server or a peer-to-peer network. What arethree characteristics of a peer-to-peer network? (Choose three.)",
+        "translated": "Egy társaság (cég) fontolgatja, hogy kliens/szerver típusú vagy peer-to-peer hálozatot válasszanak-e? Mik a jellemzői a peer-to-peer típusnak? (Válassz hármat.)"
       },
       "answers": [
         {
-          "title": "::FIRST ANSWER::"
+          "description": {
+            "original": "Better security",
+            "translated": "Jobb biztonság",
+            "correct": false
+          }
+        },
+        {
+          "description": {
+            "original": "Easy to create",
+            "translated": "Könnyű kialakítani",
+            "correct": true
+          }
+        },
+        {
+          "description": {
+            "original": "Better device performance when acting as both client and serve",
+            "translated": "Jobb az eszköz teljesítménye, amikor egyszerre kliens és szerver",
+            "correct": false
+          }
+        },
+        {
+          "description": {
+            "original": "Lacks centralized administration",
+            "translated": "Nincs központi adminisztráció",
+            "correct": true
+          }
+        },
+        {
+          "description": {
+            "original": "Less cost to implement",
+            "translated": "Kisebb költségvetés",
+            "correct": true
+          }
         }
       ]
     }
