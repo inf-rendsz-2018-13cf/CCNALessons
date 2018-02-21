@@ -21,6 +21,9 @@ module.exports = {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+    ],
+    script: [
+      { src: 'https://use.fontawesome.com/releases/v5.0.0/js/all.js', type: 'text/javascript' }
     ]
   },
 
@@ -56,6 +59,8 @@ module.exports = {
   */
   axios: {
     // See https://github.com/nuxt-community/axios-module#options
+    // baseURL: 'https://api.github.com/repos/inf-rendsz-2018-13cf/CCNALessons'
+    baseURL: 'https://raw.githubusercontent.com/inf-rendsz-2018-13cf/CCNALessons/master/'
   },
 
   /*
